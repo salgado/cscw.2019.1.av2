@@ -26,7 +26,14 @@ Capítulo/título do vídeo :
 
 
 
-Grupo 2 :   
+Grupo 2 :   André Boechat 
+Projeto 1 - Tutorial Google Docs
+Tema: Google Docs
+
+1- Criar Arquivo
+2 - ???
+3 - Profit
+
 ---------  
 Grupo 3 :   
 ---------  
