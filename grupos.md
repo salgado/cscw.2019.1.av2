@@ -3,7 +3,7 @@ login_github1 Grupos, temas e capítulos
 
 Grupo -1 (Exemplo) :   
 ---------
-Componentes: Gabriel Vicente - gabrielvf64 / Luciano Oliveira - LucianoOliverSilva  
+Componentes: Gabriel Vicente - gabrielvf64 / Luciano Oliveira - LucianoOliverSilva/   
 Projeto: Projeto 1 - Tutorial Google Apps  
 Tema: Google Drive  
 
@@ -13,7 +13,7 @@ Capítulo/título do vídeo :
 
 Grupo -2 :   
 ---------  
-Componentes: Izalena - izalena / Rafael Quintanilha - rafaelcmr
+Componentes: Izalena - izalena / Rafael Quintanilha - rafaelcmr / Gabrielle Cicarelli - gabicicarelli
 Projeto: Projeto 1 - Tutorial Google Apps  
 
 Capítulo :  
