@@ -24,9 +24,10 @@ Locais :
 
 Grupo 3 :   
 ---------
-1 - Google Presentation - Thales
-2 - Google Sheet - Caio Barra
-3 - Google Drive - Renato
+Tema: Google Drive
+1 - Thales
+2 - Caio Barra
+3 - Renato
 
 Grupo 1 :   
 ---------  
