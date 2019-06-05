@@ -3,13 +3,15 @@ login_github1 Grupos, temas e capítulos
 
 Grupo -1 (Exemplo) :   
 ---------
-Componentes: Gabriel Vicente - gabrielvf64 / Luciano Oliveira - LucianoOliverSilva  
-Projeto: Projeto 1 - Tutorial Google Apps  
-Tema: Google Drive  
+Componentes: Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius 
+Projeto: Projeto 1 - Tutorial Google Presentation
+Tema: Google Presentation
 
 Capítulo/título do vídeo :  
-1 - Criar conta no google drive  
-2 - Criar e compartilhar pastas
+1 - Criar um slide / selecionar tema
+2 - Inclusão de imagens e efeitos
+3- Inclusão de sons e videos
+4 - Inserindo graficos e diagramas
 
 
 Grupo -2 (Exemplo) :   
@@ -23,7 +25,7 @@ Locais :
 3 - Biblioteca  
 
 
-Grupo 1 :   
+Grupo 1 :   Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius
 ---------  
 Grupo 2 :   
 ---------  
