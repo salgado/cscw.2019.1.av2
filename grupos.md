@@ -79,3 +79,8 @@ Capitulo/Titulo:
 3 -Incluir Arquivos, fotos, Links em Anexo
 4- Enviar/Encaminhar/Responder Emails  
 ---------  
+
+Grupo 5: 
+Projeto 1- Tutorial Google Mail
+Tema: Google Mail
+1) Funcionalidades ( assinatura, por exemplo)
