@@ -11,6 +11,13 @@ Capítulo/título do vídeo :
 1 - Criar conta no google drive  
 2 - Criar e compartilhar pastas
 
+Grupo -2 (Exemplo) :   
+---------  
+Componentes: Izalena - izalena / Rafael Quintanilha - rafaelcmr
+Projeto: Projeto 1 - Tutorial Google Apps  
+
+Capítulo :  
+1 - Google Classroom Aluno
 
 Grupo -2 (Exemplo) :   
 ---------  
