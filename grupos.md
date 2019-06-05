@@ -1,5 +1,5 @@
-login_github1 Grupos, temas e capítulos
---------------------------
+﻿login_github1 Grupos, temas e capítulos
+---------
 
 Grupo XXX (Exemplo) :   
 ---------  
@@ -13,7 +13,7 @@ Locais :
 
 
 Grupo 1 :   Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius
----------  
+--------- 
 Componentes: Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius  
 Projeto: Projeto 1 - Tutorial Google Presentation 
 Tema: Google Presentation 
@@ -27,7 +27,18 @@ Capítulo/título do vídeo :
 
 Grupo 2 :   
 ---------  
-Grupo 3 :   
+
+Grupo 3 : 
 ---------  
-Grupo 4 :   
+
+
+Grupo 4 : Reginaldo Gaio 
 ---------  
+
+Componentes: Reginaldo Gaio  
+Projeto: Projeto 1 - Tutorial Google Apps
+Tema: Google Agenda
+
+Capítulo/título do vídeo :   
+1 - Criar um evento no calendário  
+2 - Criar um lembrete
