@@ -69,5 +69,13 @@ Grupo 2 :
 ---------  
 Grupo 3 :   
 ---------  
-Grupo 4 :   
+Grupo 4: Ricardo Neves
+Projeto 1- Tutorial Google Mail
+Tema: Google Mail
+
+Capitulo/Titulo:
+1- Escrever Mensagem/Selecionar Destinatário
+2- Incluir contatos com Cópia
+3 -Incluir Arquivos, fotos, Links em Anexo
+4- Enviar/Encaminhar/Responder Emails  
 ---------  
