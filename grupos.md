@@ -25,7 +25,19 @@ Capítulo/título do vídeo :
 4 - Inserindo graficos e diagramas 
 
 
+
+
+Grupo 2 :   André Boechat 
+Projeto 1 - Tutorial Google Docs
+Tema: Google Docs
+
+1- Criar Arquivo
+2 - ???
+3 - Profit
+
+=======
 Grupo 2 :   
+
 ---------  
 Grupo 3 :   
 ---------  
