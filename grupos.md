@@ -25,7 +25,6 @@ Capítulo/título do vídeo :
 4 - Inserindo graficos e diagramas 
 
 
-
 Grupo 2 :   
 ---------  
 Grupo 3 :   
