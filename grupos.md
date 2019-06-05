@@ -11,6 +11,12 @@ Locais :
 2 - Laboratório de Computação 10.andar  
 3 - Biblioteca  
 
+Grupo 3 :   
+---------
+Tema: Google Drive
+1 - Thales
+2 - Caio Barra
+3 - Renato
 
 Grupo 1 :   Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius
 ---------  
