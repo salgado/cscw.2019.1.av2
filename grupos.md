@@ -14,15 +14,15 @@ Locais :
 
 Grupo 1 :   Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius
 ---------  
-Componentes: Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius 
-Projeto: Projeto 1 - Tutorial Google Presentation
-Tema: Google Presentation
+Componentes: Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius  
+Projeto: Projeto 1 - Tutorial Google Presentation 
+Tema: Google Presentation 
 
-Capítulo/título do vídeo :  
-1 - Criar um slide / selecionar tema
-2 - Inclusão de imagens e efeitos
-3- Inclusão de sons e videos
-4 - Inserindo graficos e diagramas
+Capítulo/título do vídeo :   
+1 - Criar um slide / selecionar tema 
+2 - Inclusão de imagens e efeitos 
+3- Inclusão de sons e videos 
+4 - Inserindo graficos e diagramas 
 
 
 
