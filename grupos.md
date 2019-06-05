@@ -22,6 +22,11 @@ Locais :
 2 - Laboratório de Computação 10.andar  
 3 - Biblioteca  
 
+Grupo 3 :   
+---------
+1 - Google Presentation - Thales
+2 - Google Sheet - Caio Barra
+3 - Google Drive - Renato
 
 Grupo 1 :   
 ---------  
