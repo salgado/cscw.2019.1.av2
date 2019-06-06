@@ -84,3 +84,9 @@ Grupo 5:
 Projeto 1- Tutorial Google Mail
 Tema: Google Mail
 1) Funcionalidades ( assinatura, por exemplo)
+
+---------  
+Grupo 6: 
+Projeto 1- Tutorial Google Sheet
+Tema: Google Sheet
+Componentes:Gustavo Frazão / Vitoria Trigo
