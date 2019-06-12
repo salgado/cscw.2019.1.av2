@@ -84,3 +84,14 @@ Grupo 5:
 Projeto 1- Tutorial Google Mail
 Tema: Google Mail
 1) Funcionalidades ( assinatura, por exemplo)
+
+-----------------------------
+Grupo 6: Matheus Moraes (mmoraes2) 
+Projeto 1 - Tutorial Google Apps
+ 
+Tema: Google Docs 
+Capitulo/Titulo: 
+1 - Overview 
+2 - Criando Docs 
+3 - Editando Docs 
+4 - Compartilhando
