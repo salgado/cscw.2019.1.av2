@@ -90,11 +90,11 @@ body {font-family: "Lato", sans-serif}
         <i class="fa fa-phone" style="width:30px"></i> Phone: +00 UNILASALLE-555<br>
         <i class="fa fa-envelope" style="width:30px"> </i> Email: mail@soulasalle.com<br>
       </div>
-
+      <div class="w3-col m6">
         <p>
         <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="100%" data-numposts="5"></div>
         </p>
-
+      </div>
     </div>
   </div>
   
@@ -119,7 +119,6 @@ body {font-family: "Lato", sans-serif}
 // Automatic Slideshow - change image every 4 seconds
 var myIndex = 0;
 carousel();
-
 function carousel() {
   var i;
   var x = document.getElementsByClassName("mySlides");
@@ -131,7 +130,6 @@ function carousel() {
   x[myIndex-1].style.display = "block";  
   setTimeout(carousel, 4000);    
 }
-
 // Used to toggle the menu on small screens when clicking on the menu button
 function myFunction() {
   var x = document.getElementById("navDemo");
@@ -141,7 +139,6 @@ function myFunction() {
     x.className = x.className.replace(" w3-show", "");
   }
 }
-
 // When the user clicks anywhere outside of the modal, close it
 var modal = document.getElementById('ticketModal');
 window.onclick = function(event) {
