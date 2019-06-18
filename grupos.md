@@ -1,4 +1,4 @@
-login_github1 Grupos, temas e capítulos
+login_github1 Grupos, temas e capÃ­tulos
 --------------------------
 
 
@@ -8,31 +8,31 @@ Componentes: Gabriel Vicente - gabrielvf64 / Luciano Oliveira - LucianoOliverSil
 Projeto: Projeto 1 - Tutorial Google Apps  
 Tema: Google Drive  
 
-Capítulo/título do vídeo :  
+CapÃ­tulo/tÃ­tulo do vÃ­deo :  
 1 - Criar conta no google drive  
 2 - Criar e compartilhar pastas
 
-Grupo 1 :   Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius
+Grupo 1 :   DÃ£ Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius
 ---------  
-Componentes: Dã Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius  
+Componentes: DÃ£ Lael / Karol/ Matheus Pinheiro / Matheus Vinnicius  
 Projeto: Projeto 1 - Tutorial Google Presentation 
 Tema: Google Presentation 
 
-Capítulo/título do vídeo :   
+CapÃ­tulo/tÃ­tulo do vÃ­deo :   
 1 - Criar um slide / selecionar tema 
-2 - Inclusão de imagens e efeitos 
-3- Inclusão de sons e videos 
+2 - InclusÃ£o de imagens e efeitos 
+3- InclusÃ£o de sons e videos 
 4 - Inserindo graficos e diagramas 
 
 
 
-Grupo 2 :   André Boechat 
+Grupo 2 :   AndrÃ© Boechat 
 ---------  
-Componentes: André Boechat   
+Componentes: AndrÃ© Boechat   
 Projeto: Projeto 1 - Tutorial Google Presentation 
 Tema: Google Docs 
 
-Capítulo/título do vídeo :   
+CapÃ­tulo/tÃ­tulo do vÃ­deo :   
 1- Criar Arquivo  
 2 - ???  
 3 - Profit  
@@ -53,8 +53,8 @@ Projeto 1- Tutorial Google Mail
 Tema: Google Mail  
 
 Capitulo/Titulo:  
-1- Escrever Mensagem/Selecionar Destinatário  
-2- Incluir contatos com Cópia  
+1- Escrever Mensagem/Selecionar DestinatÃ¡rio  
+2- Incluir contatos com CÃ³pia  
 3 -Incluir Arquivos, fotos, Links em Anexo  
 4- Enviar/Encaminhar/Responder Emails  
 ---------  
@@ -85,7 +85,7 @@ Grupo 7 :
 Componentes: Izalena - izalena / Rafael Quintanilha - rafaelcmr / Gabrielle Cicarelli - gabicicarelli
 Projeto: Projeto 1 - Tutorial Google Apps  
 
-Capítulo :  
+CapÃ­tulo :  
 1 - Google Classroom Aluno
 
 Grupo -2 (Exemplo) :   
@@ -97,7 +97,7 @@ Grupo 8 :
 ---------  
 Projeto 1- Tutorial Google Sheet
 Tema: Google Sheet
-Componentes:Gustavo Fraz�o / Vitoria Trigo
+Componentes:Gustavo Frazão / Vitoria Trigo
 Capitulo/Titulo: 
 1 - ?? 
 2 - ?? 
@@ -110,6 +110,17 @@ Componentes: Reginaldo Gaio
 Projeto: Projeto 1 - Tutorial Google Apps
 Tema: Google Agenda
 
-Cap�tulo/t�tulo do v�deo :   
-1 - Criar um evento no calend�rio  
+Capítulo/título do vídeo :   
+1 - Criar um evento no calendário  
 2 - Criar um lembrete  
+
+Grupo 10 :   
+---------
+Componentes: Edgard Bittencourt - schakal / Juliana Cerqueiras - julianacerqueiras/ Jeferson Gomes - jefinhow2k15
+Projeto: Projeto 2 - Tour Lasalle  
+Tema: Espaço Conecta/Galeria/Centro Tecnologico  
+
+CapÃ­tulo/tÃ­tulo do vÃ­deo :  
+1 - Salas do Espaço google 
+2 - A galeria La Salle
+3- Laboratórios do Centro Tecnologico
