@@ -1,0 +1,17 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.aula {
+  float: left;
+  padding: 10px;
+}
+img {
+  border-radius: 60px;
+  width: 60px;
+  height: 60px;
+}
+
+h3 > a {
+  text-decoration: none;
+  color: #000;
+  }
