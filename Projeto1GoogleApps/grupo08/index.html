@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<title>Página CSCW</title>
+</head>
+
+<body id="body" bgcolor="pink">
+	<div align="center">
+	
+		<div id="vitoria" style="display: block">
+			<h1>Vitória Trigo</h1>
+			<img src="https://scontent.fsdu13-1.fna.fbcdn.net/v/t1.0-9/54432484_2120485458030500_4167997157808275456_n.jpg?_nc_cat=104&_nc_oc=AQnj3VlcwvHkxDWI2iASzo1-PmIaytOIUU8iwixh-55ld-ag0yh03doRBVNC2q_w2Bc&_nc_ht=scontent.fsdu13-1.fna&oh=7be54062aabc503b6f129de0786ba64f&oe=5D7D03E7" style="width:200px"></img>
+			<h2>Noções básicas sobre o Google Sheet</h2>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/zwyKwJfqWVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<br>19/06/2019
+			<br>Esse vídeo vem demonstrar de forma bem simplória como que é manusear o Google Sheet.
+		</div>	
+		
+		
+		
+		<div id="gustavo" style="display: none">
+			<h1>Gustavo Olivier</h1>
+			<img src="https://scontent.fsdu13-1.fna.fbcdn.net/v/t1.0-9/14344749_1234599119894933_9144070784541901154_n.jpg?_nc_cat=102&_nc_oc=AQm_q5rkFAOzAfkpf8YB5DvvqO4ZSJnTmFDfgKGquyhpYUOZHwXROqtU4yOPMHMQZJM&_nc_ht=scontent.fsdu13-1.fna&oh=335969c277dbfdbb887871462865887f&oe=5D8BD018" style="width:200px"></img>
+			<h2>Manipulando uma planilha para controle de gastos</h2>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/vnIgb1iS9Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<br>19/06/2019
+			<br>Esse vídeo tem o intuito de demonstrar que é possível utilizar o Google Sheet para se organizar financeiramente.
+		</div>
+	</div>
+	<br>
+	<div align="center">
+		<button onClick="changeVideo()">Alterar tutorial</button>
+	</div>
+	
+	
+	<div class="w3-row w3-padding-32">
+      <div class="w3-third">
+        <p>LearnPedia</p>
+        <a href = "https://www.learnpedia.in/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvzxDCkYblDLSZ0eM6igHLxxS2APHgbodlkazxvP5bjHux5pH" class="w3-round w3-margin-bottom" alt="Random Name" style="width:70px">
+        </a>
+      </div>
+    </div>
+	
+<script>
+	function changeVideo() {
+		var v = document.getElementById("vitoria");
+		var g = document.getElementById("gustavo");
+		if (v.style.display === "none") {
+			v.style.display = "block";
+			g.style.display = "none";
+			document.body.style.backgroundColor = "pink";
+		}
+		else {
+			g.style.display = "block";
+			v.style.display = "none";
+			document.body.style.backgroundColor = "#33cccc";
+		}
+	}
+</script>
+</body>
+</html>
